@@ -6,4 +6,4 @@ CSS and Bootstrap exercise during the [App Brewery Web Development Bootcamp](htt
 
 ## Development setup
 
-Run `open index.html` to open the page local by your default browser.
+Open index.html in your local browser.
